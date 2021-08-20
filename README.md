@@ -92,10 +92,6 @@ optional arguments:
 
 #### Run the script targeting only a single product:
 
-Note: This will create the package, upload it, and create all of the supporting
-objects. However, it will not be able to determine the triggers of its
-dependencies, which it will need to properly process an installation.
-
 `./build_packages.py -d /path/to/matlab_R2021b_maci64.dmg -p 'Curve Fitting Toolbox'`
 
 #### Skip processing the files in the DMG:
