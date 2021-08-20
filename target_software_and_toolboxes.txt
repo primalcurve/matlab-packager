@@ -1,0 +1,26 @@
+MATLAB
+Simulink
+Communications Toolbox
+Computer Vision Toolbox
+Control System Toolbox
+Curve Fitting Toolbox
+Deep Learning Toolbox
+DSP System Toolbox
+Econometrics Toolbox
+Financial Toolbox
+Global Optimization Toolbox
+Image Acquisition Toolbox
+Image Processing Toolbox
+Instrument Control Toolbox
+Mapping Toolbox
+MATLAB Coder
+MATLAB Compiler
+Optimization Toolbox
+Parallel Computing Toolbox
+Partial Differential Equation Toolbox
+Signal Processing Toolbox
+Simulink Coder
+Stateflow
+Statistics and Machine Learning Toolbox
+Symbolic Math Toolbox
+Wavelet Toolbox

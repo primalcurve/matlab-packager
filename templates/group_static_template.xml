@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <computer_group>
+    <id>-1</id>
+    <name></name>
+    <is_smart>false</is_smart>
+    <site>
+      <id>-1</id>
+      <name>None</name>
+    </site>
+    <criteria>
+      <size>0</size>
+    </criteria>
+    <computers>
+      <size>0</size>
+    </computers>
+  </computer_group>
